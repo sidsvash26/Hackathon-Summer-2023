@@ -1,25 +1,28 @@
 # Leaderboard for GIDS Biomedical Data Hackathon 2023
 
--   **time stamp:** “16 August, 2023 15:00:09”
+-   **time stamp:** “17 August, 2023 15:00:03”
 
 | pseudonym               | TP   | TN    | FP   | FN   |     MCC |
 |:------------------------|:-----|:------|:-----|:-----|--------:|
-| DMMH                    | 1744 | 17041 | 1021 | 1148 |  0.5570 |
-| athena                  | 1352 | 17652 | 410  | 1540 |  0.5528 |
-| DataMedics              | 1479 | 17304 | 758  | 1413 |  0.5243 |
-| AveragePitaEnjoyers     | 1142 | 17525 | 537  | 1750 |  0.4639 |
+| athena                  | 1361 | 17656 | 406  | 1531 |  0.5562 |
+| DMMH                    | 1744 | 17001 | 1061 | 1148 |  0.5514 |
+| MLbeginners             | 2198 | 14657 | 3405 | 694  |  0.4454 |
+| AveragePitaEnjoyers     | 1216 | 17255 | 807  | 1676 |  0.4389 |
 | NW_KD_EL                | 1443 | 16641 | 1421 | 1449 |  0.4220 |
-| MLbeginners             | 767  | 17478 | 584  | 2125 |  0.3271 |
+| KD                      | 799  | 17646 | 416  | 2093 |  0.3737 |
+| DataMedics              | 1613 | 13822 | 4240 | 1279 |  0.2483 |
 | GAC Soldiers            | 54   | 17811 | 251  | 2838 |  0.0138 |
-| ant_on                  | 58   | 17683 | 379  | 2834 | -0.0022 |
+| ant_on                  | 176  | 16843 | 1219 | 2716 | -0.0092 |
 | yeast                   | 342  | 15688 | 2374 | 2550 | -0.0135 |
 | fly                     | 342  | 15688 | 2374 | 2550 | -0.0135 |
 | CookieMonster           | 342  | 15688 | 2374 | 2550 | -0.0135 |
+| CIV                     | 342  | 15688 | 2374 | 2550 | -0.0135 |
 | ZhongZaiCanYu           | 342  | 15688 | 2374 | 2550 | -0.0135 |
-| KD                      | 342  | 15688 | 2374 | 2550 | -0.0135 |
 | eNovice123              | 342  | 15688 | 2374 | 2550 | -0.0135 |
 | OpenhAImmers            | 342  | 15688 | 2374 | 2550 | -0.0135 |
 | The Selfish Fruit Flies | 342  | 15688 | 2374 | 2550 | -0.0135 |
+| Jun                     | NA   | NA    | NA   | NA   |      NA |
+| Prophetic Analysts      | NA   | NA    | NA   | NA   |      NA |
 
 \****Confusion matrix categories:***
 
@@ -49,7 +52,6 @@ incorrect)
 
 | x                      |
 |:-----------------------|
-| CIV                    |
 | SKS_Cube               |
 | NATS                   |
 | Rubber Cell            |
@@ -66,7 +68,6 @@ incorrect)
 | DrJones                |
 | PY                     |
 | Les MES                |
-| Prophetic Analysts     |
 | Spartans               |
 | Megalomania            |
 | peacewarriors          |
