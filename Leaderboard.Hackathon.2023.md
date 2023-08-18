@@ -1,26 +1,28 @@
 # Leaderboard for GIDS Biomedical Data Hackathon 2023
 
--   **time stamp:** “17 August, 2023 15:00:03”
+-   **time stamp:** “18 August, 2023 15:00:03”
 
 | pseudonym               | TP   | TN    | FP   | FN   |     MCC |
 |:------------------------|:-----|:------|:-----|:-----|--------:|
+| DMMH                    | 1646 | 17360 | 702  | 1246 |  0.5799 |
+| MF_ZS                   | 1768 | 17039 | 1023 | 1124 |  0.5631 |
+| The Selfish Fruit Flies | 1729 | 17091 | 971  | 1163 |  0.5601 |
 | athena                  | 1361 | 17656 | 406  | 1531 |  0.5562 |
-| DMMH                    | 1744 | 17001 | 1061 | 1148 |  0.5514 |
-| MLbeginners             | 2198 | 14657 | 3405 | 694  |  0.4454 |
-| AveragePitaEnjoyers     | 1216 | 17255 | 807  | 1676 |  0.4389 |
-| NW_KD_EL                | 1443 | 16641 | 1421 | 1449 |  0.4220 |
-| KD                      | 799  | 17646 | 416  | 2093 |  0.3737 |
-| DataMedics              | 1613 | 13822 | 4240 | 1279 |  0.2483 |
+| DataMedics              | 1734 | 16933 | 1129 | 1158 |  0.5394 |
+| MLbeginners             | 2278 | 14536 | 3526 | 614  |  0.4566 |
+| KD                      | 1148 | 17382 | 680  | 1744 |  0.4392 |
+| NW_KD_EL                | 1466 | 16636 | 1426 | 1426 |  0.4280 |
+| CIV                     | 848  | 17645 | 417  | 2044 |  0.3912 |
+| AveragePitaEnjoyers     | 1338 | 16425 | 1637 | 1554 |  0.3676 |
 | GAC Soldiers            | 54   | 17811 | 251  | 2838 |  0.0138 |
-| ant_on                  | 176  | 16843 | 1219 | 2716 | -0.0092 |
+| ant_on                  | 205  | 16910 | 1152 | 2687 |  0.0100 |
+| DrJones                 | 317  | 16102 | 1960 | 2575 |  0.0012 |
 | yeast                   | 342  | 15688 | 2374 | 2550 | -0.0135 |
 | fly                     | 342  | 15688 | 2374 | 2550 | -0.0135 |
 | CookieMonster           | 342  | 15688 | 2374 | 2550 | -0.0135 |
-| CIV                     | 342  | 15688 | 2374 | 2550 | -0.0135 |
 | ZhongZaiCanYu           | 342  | 15688 | 2374 | 2550 | -0.0135 |
 | eNovice123              | 342  | 15688 | 2374 | 2550 | -0.0135 |
 | OpenhAImmers            | 342  | 15688 | 2374 | 2550 | -0.0135 |
-| The Selfish Fruit Flies | 342  | 15688 | 2374 | 2550 | -0.0135 |
 | Jun                     | NA   | NA    | NA   | NA   |      NA |
 | Prophetic Analysts      | NA   | NA    | NA   | NA   |      NA |
 
@@ -57,7 +59,6 @@ incorrect)
 | Rubber Cell            |
 | wizard                 |
 | mavericks              |
-| MF_ZS                  |
 | Default                |
 | Corti                  |
 | El Aquelarre de A.R.N. |
@@ -65,7 +66,6 @@ incorrect)
 | whatsthesecret         |
 | Tabassum               |
 | QQ                     |
-| DrJones                |
 | PY                     |
 | Les MES                |
 | Spartans               |
